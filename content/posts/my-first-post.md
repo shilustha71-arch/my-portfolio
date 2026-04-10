@@ -8,3 +8,4 @@ title = 'My First Post'
 This site is automatically deployed using Netlify CI/CD pipeline.
 
 Every time I push a change to GitHub, Netlify automatically rebuilds and deploys the site.
+hi, i am now making some changes.
